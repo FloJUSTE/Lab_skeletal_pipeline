@@ -4,7 +4,7 @@ pipeline {
     stage('Flutty Build') {
       agent any
       steps {
-        sh 'echo Another Placeholder'
+        sh 'echo Edited Placeholder'
       }
     }
 
